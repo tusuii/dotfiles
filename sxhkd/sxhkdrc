@@ -8,7 +8,7 @@ super + e
       emacsclient -c
 
 super + n
-	/home/subodh/android-studio/bin/studio.sh      
+	/home/[your_program]/bin/studio.sh      
 
 alt + e
        /home/subodh/.local/bin/emoji.sh
