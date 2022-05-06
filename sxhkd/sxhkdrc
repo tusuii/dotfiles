@@ -1,0 +1,21 @@
+super + q
+      pcmanfm
+      
+super + c
+      google-chrome --restore-last-session
+
+super + e
+      emacsclient -c
+
+super + n
+	/home/subodh/android-studio/bin/studio.sh      
+
+alt + e
+       /home/subodh/.local/bin/emoji.sh
+
+alt + print
+      /home/subodh/.local/bin/screenshot.sh
+      
+XF86MonBrightness{Up,Down}
+	brightnessctl s {+2%,2%-}
+
